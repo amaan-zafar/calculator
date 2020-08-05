@@ -4,8 +4,8 @@ A calculator app made using flutter.
 
 ## Features
 
-Operations: Addition, substraction, multiplication, floating point division, modulus
-Expressions involving multiple operations can be performed. E.g. 32+87-34/3
+- Operations: Addition, substraction, multiplication, floating point division, modulus.
+- Expressions involving multiple operations can be performed. E.g. 32+87-34/3
 
 ### Limitations
 
