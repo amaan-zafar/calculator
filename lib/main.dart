@@ -12,7 +12,7 @@ class CalApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.cyan,
       ),
-      home: HomePage(),
+      home: HomePage(), //takes to home
     );
   }
 }
